@@ -1,0 +1,10 @@
+/* Base styles for the application */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f3f4f6;
+}
+
+/* Ensure round stroke caps for a cleaner draw effect */
+#animatedText {
+    stroke-linecap: round;
+}
