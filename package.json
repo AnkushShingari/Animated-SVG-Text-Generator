@@ -1,0 +1,21 @@
+{
+  "name": "animated-svg-text-generator",
+  "version": "1.0.0",
+  "description": "A single-page application for customizing and generating animated SVG text effects.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "svg",
+    "animation",
+    "text",
+    "generator",
+    "frontend",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Gemini AI",
+  "license": "ISC"
+}
